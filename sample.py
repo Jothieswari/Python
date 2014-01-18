@@ -1,0 +1,2 @@
+m="jothi"
+print(m)
